@@ -20,27 +20,27 @@ body {
 }
 
 #home {
-    background: url("../images/icons8-home-page-64.png") no-repeat;
+    background: url("../Images/icons8-home-page-64.png") no-repeat;
 }
 #home:hover {
-    background: url("../images/icons8-home-page-64-hover.png") no-repeat;
+    background: url("../Images/icons8-home-page-64-hover.png") no-repeat;
     cursor: pointer;
 }
 
 #pinterest {
-    background: url("../images/icons8-pinterest-64.png") no-repeat;
+    background: url("../Images/icons8-pinterest-64.png") no-repeat;
 }
 #pinterest:hover {
-    background: url("../images/icons8-pinterest-64-hover.png") no-repeat;
+    background: url("../Images/icons8-pinterest-64-hover.png") no-repeat;
     cursor: pointer;
 }
 
 #email {
-    background: url("../images/icons8-email-sign-64.png") no-repeat;
+    background: url("../Images/icons8-email-sign-64.png") no-repeat;
 }
 
 #email:hover {
-    background: url("../images/icons8-email-sign-64-hover.png") no-repeat;
+    background: url("../Images/icons8-email-sign-64-hover.png") no-repeat;
     cursor: pointer;
 }
 
